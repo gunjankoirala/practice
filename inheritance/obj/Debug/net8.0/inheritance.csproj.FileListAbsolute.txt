@@ -12,3 +12,4 @@ E:\DotNet\inheritance\obj\Debug\net8.0\refint\inheritance.dll
 E:\DotNet\inheritance\obj\Debug\net8.0\inheritance.pdb
 E:\DotNet\inheritance\obj\Debug\net8.0\inheritance.genruntimeconfig.cache
 E:\DotNet\inheritance\obj\Debug\net8.0\ref\inheritance.dll
+E:\DotNet\inheritance\obj\Debug\net8.0\inheritance.sourcelink.json

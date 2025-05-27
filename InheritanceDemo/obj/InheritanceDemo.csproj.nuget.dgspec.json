@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\DotNet\\Constructor\\Constructor.csproj": {}
+    "E:\\DotNet\\InheritanceDemo\\InheritanceDemo.csproj": {}
   },
   "projects": {
-    "E:\\DotNet\\Constructor\\Constructor.csproj": {
+    "E:\\DotNet\\InheritanceDemo\\InheritanceDemo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\DotNet\\Constructor\\Constructor.csproj",
-        "projectName": "Constructor",
-        "projectPath": "E:\\DotNet\\Constructor\\Constructor.csproj",
+        "projectUniqueName": "E:\\DotNet\\InheritanceDemo\\InheritanceDemo.csproj",
+        "projectName": "InheritanceDemo",
+        "projectPath": "E:\\DotNet\\InheritanceDemo\\InheritanceDemo.csproj",
         "packagesPath": "C:\\Users\\gunjan\\.nuget\\packages\\",
-        "outputPath": "E:\\DotNet\\Constructor\\obj\\",
+        "outputPath": "E:\\DotNet\\InheritanceDemo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\gunjan\\AppData\\Roaming\\NuGet\\NuGet.Config"
