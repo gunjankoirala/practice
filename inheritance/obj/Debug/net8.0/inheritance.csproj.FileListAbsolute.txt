@@ -1,0 +1,14 @@
+E:\DotNet\inheritance\obj\Debug\net8.0\inheritance.GeneratedMSBuildEditorConfig.editorconfig
+E:\DotNet\inheritance\obj\Debug\net8.0\inheritance.AssemblyInfoInputs.cache
+E:\DotNet\inheritance\obj\Debug\net8.0\inheritance.AssemblyInfo.cs
+E:\DotNet\inheritance\obj\Debug\net8.0\inheritance.csproj.CoreCompileInputs.cache
+E:\DotNet\inheritance\bin\Debug\net8.0\inheritance.exe
+E:\DotNet\inheritance\bin\Debug\net8.0\inheritance.deps.json
+E:\DotNet\inheritance\bin\Debug\net8.0\inheritance.runtimeconfig.json
+E:\DotNet\inheritance\bin\Debug\net8.0\inheritance.dll
+E:\DotNet\inheritance\bin\Debug\net8.0\inheritance.pdb
+E:\DotNet\inheritance\obj\Debug\net8.0\inheritance.dll
+E:\DotNet\inheritance\obj\Debug\net8.0\refint\inheritance.dll
+E:\DotNet\inheritance\obj\Debug\net8.0\inheritance.pdb
+E:\DotNet\inheritance\obj\Debug\net8.0\inheritance.genruntimeconfig.cache
+E:\DotNet\inheritance\obj\Debug\net8.0\ref\inheritance.dll
