@@ -14,7 +14,7 @@ using System;
         }
     }
      
-     public class Super{
+     public class UsingBase{
         public static void Main(String[] args)
         {
             Student s = new Student();

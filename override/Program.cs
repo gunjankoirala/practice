@@ -40,7 +40,7 @@
         }
     }
 
-    public class Execute
+    public class ExecuteOverride
     {
         public static void Main(string[] args)
         {

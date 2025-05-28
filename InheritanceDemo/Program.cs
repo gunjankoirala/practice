@@ -19,7 +19,7 @@
         }
     }
 
-    class executeInheritance {
+    class ExecuteInheritance {
         public static void Main(string[] args) {
             Student s = new Student();
             s.name = "gunjan";
