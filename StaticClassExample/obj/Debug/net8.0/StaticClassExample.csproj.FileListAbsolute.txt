@@ -1,0 +1,15 @@
+E:\DotNet\StaticClassExample\obj\Debug\net8.0\StaticClassExample.GeneratedMSBuildEditorConfig.editorconfig
+E:\DotNet\StaticClassExample\obj\Debug\net8.0\StaticClassExample.AssemblyInfoInputs.cache
+E:\DotNet\StaticClassExample\obj\Debug\net8.0\StaticClassExample.AssemblyInfo.cs
+E:\DotNet\StaticClassExample\obj\Debug\net8.0\StaticClassExample.csproj.CoreCompileInputs.cache
+E:\DotNet\StaticClassExample\obj\Debug\net8.0\StaticClassExample.sourcelink.json
+E:\DotNet\StaticClassExample\bin\Debug\net8.0\StaticClassExample.exe
+E:\DotNet\StaticClassExample\bin\Debug\net8.0\StaticClassExample.deps.json
+E:\DotNet\StaticClassExample\bin\Debug\net8.0\StaticClassExample.runtimeconfig.json
+E:\DotNet\StaticClassExample\bin\Debug\net8.0\StaticClassExample.dll
+E:\DotNet\StaticClassExample\bin\Debug\net8.0\StaticClassExample.pdb
+E:\DotNet\StaticClassExample\obj\Debug\net8.0\StaticClassExample.dll
+E:\DotNet\StaticClassExample\obj\Debug\net8.0\refint\StaticClassExample.dll
+E:\DotNet\StaticClassExample\obj\Debug\net8.0\StaticClassExample.pdb
+E:\DotNet\StaticClassExample\obj\Debug\net8.0\StaticClassExample.genruntimeconfig.cache
+E:\DotNet\StaticClassExample\obj\Debug\net8.0\ref\StaticClassExample.dll

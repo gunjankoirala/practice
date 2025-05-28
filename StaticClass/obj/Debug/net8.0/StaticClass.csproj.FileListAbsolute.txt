@@ -1,0 +1,15 @@
+E:\DotNet\StaticClass\obj\Debug\net8.0\StaticClass.GeneratedMSBuildEditorConfig.editorconfig
+E:\DotNet\StaticClass\obj\Debug\net8.0\StaticClass.AssemblyInfoInputs.cache
+E:\DotNet\StaticClass\obj\Debug\net8.0\StaticClass.AssemblyInfo.cs
+E:\DotNet\StaticClass\obj\Debug\net8.0\StaticClass.csproj.CoreCompileInputs.cache
+E:\DotNet\StaticClass\obj\Debug\net8.0\StaticClass.sourcelink.json
+E:\DotNet\StaticClass\bin\Debug\net8.0\StaticClass.exe
+E:\DotNet\StaticClass\bin\Debug\net8.0\StaticClass.deps.json
+E:\DotNet\StaticClass\bin\Debug\net8.0\StaticClass.runtimeconfig.json
+E:\DotNet\StaticClass\bin\Debug\net8.0\StaticClass.dll
+E:\DotNet\StaticClass\bin\Debug\net8.0\StaticClass.pdb
+E:\DotNet\StaticClass\obj\Debug\net8.0\StaticClass.dll
+E:\DotNet\StaticClass\obj\Debug\net8.0\refint\StaticClass.dll
+E:\DotNet\StaticClass\obj\Debug\net8.0\StaticClass.pdb
+E:\DotNet\StaticClass\obj\Debug\net8.0\StaticClass.genruntimeconfig.cache
+E:\DotNet\StaticClass\obj\Debug\net8.0\ref\StaticClass.dll

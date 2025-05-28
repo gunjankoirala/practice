@@ -1,0 +1,15 @@
+E:\DotNet\InterfaceExample\obj\Debug\net8.0\InterfaceExample.GeneratedMSBuildEditorConfig.editorconfig
+E:\DotNet\InterfaceExample\obj\Debug\net8.0\InterfaceExample.AssemblyInfoInputs.cache
+E:\DotNet\InterfaceExample\obj\Debug\net8.0\InterfaceExample.AssemblyInfo.cs
+E:\DotNet\InterfaceExample\obj\Debug\net8.0\InterfaceExample.csproj.CoreCompileInputs.cache
+E:\DotNet\InterfaceExample\obj\Debug\net8.0\InterfaceExample.sourcelink.json
+E:\DotNet\InterfaceExample\bin\Debug\net8.0\InterfaceExample.exe
+E:\DotNet\InterfaceExample\bin\Debug\net8.0\InterfaceExample.deps.json
+E:\DotNet\InterfaceExample\bin\Debug\net8.0\InterfaceExample.runtimeconfig.json
+E:\DotNet\InterfaceExample\bin\Debug\net8.0\InterfaceExample.dll
+E:\DotNet\InterfaceExample\bin\Debug\net8.0\InterfaceExample.pdb
+E:\DotNet\InterfaceExample\obj\Debug\net8.0\InterfaceExample.dll
+E:\DotNet\InterfaceExample\obj\Debug\net8.0\refint\InterfaceExample.dll
+E:\DotNet\InterfaceExample\obj\Debug\net8.0\InterfaceExample.pdb
+E:\DotNet\InterfaceExample\obj\Debug\net8.0\InterfaceExample.genruntimeconfig.cache
+E:\DotNet\InterfaceExample\obj\Debug\net8.0\ref\InterfaceExample.dll

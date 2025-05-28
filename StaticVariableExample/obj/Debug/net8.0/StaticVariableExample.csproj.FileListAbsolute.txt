@@ -1,0 +1,15 @@
+E:\DotNet\StaticVariableExample\obj\Debug\net8.0\StaticVariableExample.GeneratedMSBuildEditorConfig.editorconfig
+E:\DotNet\StaticVariableExample\obj\Debug\net8.0\StaticVariableExample.AssemblyInfoInputs.cache
+E:\DotNet\StaticVariableExample\obj\Debug\net8.0\StaticVariableExample.AssemblyInfo.cs
+E:\DotNet\StaticVariableExample\obj\Debug\net8.0\StaticVariableExample.csproj.CoreCompileInputs.cache
+E:\DotNet\StaticVariableExample\obj\Debug\net8.0\StaticVariableExample.sourcelink.json
+E:\DotNet\StaticVariableExample\bin\Debug\net8.0\StaticVariableExample.exe
+E:\DotNet\StaticVariableExample\bin\Debug\net8.0\StaticVariableExample.deps.json
+E:\DotNet\StaticVariableExample\bin\Debug\net8.0\StaticVariableExample.runtimeconfig.json
+E:\DotNet\StaticVariableExample\bin\Debug\net8.0\StaticVariableExample.dll
+E:\DotNet\StaticVariableExample\bin\Debug\net8.0\StaticVariableExample.pdb
+E:\DotNet\StaticVariableExample\obj\Debug\net8.0\StaticVariableExample.dll
+E:\DotNet\StaticVariableExample\obj\Debug\net8.0\refint\StaticVariableExample.dll
+E:\DotNet\StaticVariableExample\obj\Debug\net8.0\StaticVariableExample.pdb
+E:\DotNet\StaticVariableExample\obj\Debug\net8.0\StaticVariableExample.genruntimeconfig.cache
+E:\DotNet\StaticVariableExample\obj\Debug\net8.0\ref\StaticVariableExample.dll
