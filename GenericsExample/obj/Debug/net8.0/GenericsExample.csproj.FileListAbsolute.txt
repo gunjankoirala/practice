@@ -1,0 +1,15 @@
+E:\DotNet\GenericsExample\obj\Debug\net8.0\GenericsExample.GeneratedMSBuildEditorConfig.editorconfig
+E:\DotNet\GenericsExample\obj\Debug\net8.0\GenericsExample.AssemblyInfoInputs.cache
+E:\DotNet\GenericsExample\obj\Debug\net8.0\GenericsExample.AssemblyInfo.cs
+E:\DotNet\GenericsExample\obj\Debug\net8.0\GenericsExample.csproj.CoreCompileInputs.cache
+E:\DotNet\GenericsExample\obj\Debug\net8.0\GenericsExample.sourcelink.json
+E:\DotNet\GenericsExample\bin\Debug\net8.0\GenericsExample.exe
+E:\DotNet\GenericsExample\bin\Debug\net8.0\GenericsExample.deps.json
+E:\DotNet\GenericsExample\bin\Debug\net8.0\GenericsExample.runtimeconfig.json
+E:\DotNet\GenericsExample\bin\Debug\net8.0\GenericsExample.dll
+E:\DotNet\GenericsExample\bin\Debug\net8.0\GenericsExample.pdb
+E:\DotNet\GenericsExample\obj\Debug\net8.0\GenericsExample.dll
+E:\DotNet\GenericsExample\obj\Debug\net8.0\refint\GenericsExample.dll
+E:\DotNet\GenericsExample\obj\Debug\net8.0\GenericsExample.pdb
+E:\DotNet\GenericsExample\obj\Debug\net8.0\GenericsExample.genruntimeconfig.cache
+E:\DotNet\GenericsExample\obj\Debug\net8.0\ref\GenericsExample.dll
