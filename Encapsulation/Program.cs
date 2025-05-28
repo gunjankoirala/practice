@@ -3,8 +3,8 @@ namespace Encapsulation
 {
     public class Student
     {
-        private String name ="";
-        private String address="";
+         private String name ="";
+         private String address="";
          public void setName(string n)
          {
             name = n;
@@ -24,7 +24,7 @@ namespace Encapsulation
 
     }
 
-    public class Demo
+    public class DemoAbstraction
     {
         public static void Main(String[] args)
         {
